@@ -1,15 +1,15 @@
 h1{
-  color: blue;
+  color: pink;
   text-align: center;
   font-weight: bold;
 }
 h2{
-  color: green;
+  color: yellow;
   font-style: italic;
 }
 p{
-  color: grey;
+  color: pink;
 }
 body{
-  background-color: yellow;
+  background-color: green;
 }
